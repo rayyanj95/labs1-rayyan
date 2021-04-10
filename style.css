@@ -1,0 +1,45 @@
+.navbar {
+    padding:0rem;
+    margin-bottom:2rem;
+  }
+  
+  .dropdown .dropdown-menu {
+    border-radius:0;
+   }
+
+   .logos{
+       padding-top: 2%;
+       align-items: center;
+       margin: 20px;
+   }
+   
+   #secondnav{
+       justify-content:space-evenly;
+   }
+
+   #centerpart{
+       justify-content: space-between;
+       margin-left: 15%;
+   }
+   #textcenter{
+       margin-top: 10%;
+   }
+   
+   #logobar{
+       align-items: center;
+       padding-top: 3%;
+       margin-left: 20%;
+       display: inline-block;
+   }
+
+  @media (min-width: 768px) {  
+  .dropdown:hover .dropdown-menu {
+      display: block;
+      margin-top: 0;
+    border-radius:0;
+   }
+  }
+  
+
+  
+  
