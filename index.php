@@ -1,1 +1,1 @@
-<?php include_once("./tablelab.html") ?>
+<?php include_once("./index.html") ?>
